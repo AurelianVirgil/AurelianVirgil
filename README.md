@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AurelianVirgil
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
 - 📫 dragneaurelian@gmail.com
